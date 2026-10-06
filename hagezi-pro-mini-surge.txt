@@ -1,5 +1,4 @@
-# HaGeZi Pro mini converted for Shadowrocket DOMAIN-SET (leading dot = domain + all subdomains)
-# Source: https://github.com/hagezi/dns-blocklists (wildcard/pro.mini-onlydomains.txt)
+# HaGeZi Pro mini, converted for Shadowrocket DOMAIN-SET (leading dot = domain + subdomains)
 .telemetry.001-studio.com
 .ad.001zb.com
 .sst.013.nl
